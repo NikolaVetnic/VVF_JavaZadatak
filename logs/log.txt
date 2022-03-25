@@ -6,85 +6,76 @@ Carolije : [Soul Arrow (dmg : 20), Magic Missle (dmg : 20), Fireball (dmg : 20)]
 POCETAK bitke
  
 Armin je pokupio oruzje Sword of Night and Flame
-Eren je pokupio oruzje Soul Arrow
-Velekh je pokupio oruzje Drake's Sword
-Armin je napao Blight Dragon pomocu Sword of Night and Flame (dmg : 10)
-Eren je napao Ancient Dragon pomocu Soul Arrow (dmg : 20)
-Velekh je napao Blight Dragon pomocu Drake's Sword (dmg : 10)
-Frost Spider je napao Velekh pomocu BITE (dmg : 8)
-Common Spider je napao Eren pomocu BITE (dmg : 8)
-Poisonous Spider je napao Velekh pomocu BITE (dmg : 8)
-Ancient Dragon je napao Armin pomocu STRIKE (dmg : 5)
-Undead Dragon je napao Armin pomocu FIRE_BREATH (dmg : 20)
-Blight Dragon je napao Eren pomocu FIRE_BREATH (dmg : 20)
-	KRAJ 1. poteza
-Eren je pokupio oruzje Magic Missle
-Armin je napao Frost Spider pomocu Sword of Night and Flame (dmg : 10)
-Eren je napao Frost Spider pomocu Magic Missle (dmg : 20)
-Eren JE POBEDIO u duelu sa Frost Spider
-Velekh je napao Ancient Dragon pomocu Drake's Sword (dmg : 10)
-Common Spider je napao Armin pomocu BITE (dmg : 8)
-Poisonous Spider je napao Armin pomocu STRIKE (dmg : 5)
-Ancient Dragon je napao Eren pomocu STRIKE (dmg : 5)
-Undead Dragon je napao Velekh pomocu STRIKE (dmg : 5)
-Blight Dragon je napao Eren pomocu FIRE_BREATH (dmg : 20)
-	KRAJ 2. poteza
-Velekh je pokupio oruzje Zweihaender
+Eren je pokupio oruzje Drake's Sword
+Velekh je pokupio oruzje Soul Arrow
 Armin je napao Ancient Dragon pomocu Sword of Night and Flame (dmg : 10)
-Eren je napao Common Spider pomocu Magic Missle (dmg : 20)
-Eren JE POBEDIO u duelu sa Common Spider
-Velekh je napao Blight Dragon pomocu Zweihaender (dmg : 10)
-Poisonous Spider je napao Armin pomocu BITE (dmg : 8)
+Eren je napao Blight Dragon pomocu Drake's Sword (dmg : 10)
+Velekh je napao Poisonous Spider pomocu Soul Arrow (dmg : 20)
+Velekh JE POBEDIO u duelu sa Poisonous Spider
+Frost Spider je napao Armin pomocu BITE (dmg : 8)
+Common Spider je napao Eren pomocu BITE (dmg : 8)
+Ancient Dragon je napao Velekh pomocu STRIKE (dmg : 5)
+Undead Dragon je napao Eren pomocu FIRE_BREATH (dmg : 20)
+Blight Dragon je napao Eren pomocu STRIKE (dmg : 5)
+	KRAJ 1. poteza
+Velekh je pokupio oruzje Magic Missle
+Armin je napao Common Spider pomocu Sword of Night and Flame (dmg : 10)
+Eren je napao Blight Dragon pomocu Drake's Sword (dmg : 10)
+Velekh je napao Frost Spider pomocu Magic Missle (dmg : 20)
+Velekh JE POBEDIO u duelu sa Frost Spider
+Common Spider je napao Armin pomocu STRIKE (dmg : 5)
 Ancient Dragon je napao Armin pomocu STRIKE (dmg : 5)
-Undead Dragon je napao Eren pomocu STRIKE (dmg : 5)
+Undead Dragon je napao Velekh pomocu FIRE_BREATH (dmg : 20)
+Blight Dragon je napao Eren pomocu STRIKE (dmg : 5)
+	KRAJ 2. poteza
+Eren je pokupio oruzje Zweihaender
+Velekh je bacio oruzje Magic Missle
+Armin je napao Undead Dragon pomocu Sword of Night and Flame (dmg : 10)
+Eren je napao Undead Dragon pomocu Zweihaender (dmg : 10)
+Velekh je napao Ancient Dragon pomocu Soul Arrow (dmg : 20)
+Common Spider je napao Velekh pomocu BITE (dmg : 8)
+Ancient Dragon je napao Armin pomocu FIRE_BREATH (dmg : 20)
+Undead Dragon je napao Velekh pomocu STRIKE (dmg : 5)
 Blight Dragon je napao Armin pomocu STRIKE (dmg : 5)
 	KRAJ 3. poteza
-Eren je bacio oruzje Magic Missle
-Velekh je bacio oruzje Zweihaender
-Armin je napao Undead Dragon pomocu Sword of Night and Flame (dmg : 10)
-Eren je napao Ancient Dragon pomocu Soul Arrow (dmg : 20)
-Velekh je napao Poisonous Spider pomocu Drake's Sword (dmg : 10)
-Poisonous Spider je napao Armin pomocu BITE (dmg : 8)
-Ancient Dragon je napao Velekh pomocu STRIKE (dmg : 5)
-Undead Dragon je napao Velekh pomocu FIRE_BREATH (dmg : 20)
-Blight Dragon je napao Velekh pomocu FIRE_BREATH (dmg : 20)
-	KRAJ 4. poteza
 Armin je pokupio oruzje Penetrator
-Velekh je pokupio oruzje The Piercer
-Armin je napao Ancient Dragon pomocu Penetrator (dmg : 15)
-Eren je napao Poisonous Spider pomocu Soul Arrow (dmg : 20)
-Eren JE POBEDIO u duelu sa Poisonous Spider
-Velekh je napao Ancient Dragon pomocu The Piercer (dmg : 15)
-Velekh JE POBEDIO u duelu sa Ancient Dragon
-Undead Dragon je napao Eren pomocu FIRE_BREATH (dmg : 20)
-Blight Dragon je napao Velekh pomocu STRIKE (dmg : 5)
-	KRAJ 5. poteza
-Armin je bacio oruzje Penetrator
-Eren je pokupio oruzje Fireball
-Velekh je pokusao da pokupi oruzje ali nije uspeo
-Armin je napao Undead Dragon pomocu Sword of Night and Flame (dmg : 10)
-Eren je napao Blight Dragon pomocu Fireball (dmg : 20)
-Velekh je napao Blight Dragon pomocu The Piercer (dmg : 15)
+Eren je bacio oruzje Zweihaender
+Velekh je pokupio oruzje Fireball
+Armin je napao Common Spider pomocu Penetrator (dmg : 15)
+Armin JE POBEDIO u duelu sa Common Spider
+Eren je napao Blight Dragon pomocu Drake's Sword (dmg : 10)
+Velekh je napao Blight Dragon pomocu Fireball (dmg : 20)
+Ancient Dragon je napao Armin pomocu STRIKE (dmg : 5)
 Undead Dragon je napao Eren pomocu STRIKE (dmg : 5)
-Blight Dragon je napao Eren pomocu FIRE_BREATH (dmg : 20)
-Blight Dragon JE POBEDIO u duelu sa Eren
+Blight Dragon je napao Eren pomocu STRIKE (dmg : 5)
+	KRAJ 4. poteza
+Armin je pokusao da pokupi oruzje ali nije uspeo
+Armin je napao Ancient Dragon pomocu Penetrator (dmg : 15)
+Eren je napao Ancient Dragon pomocu Drake's Sword (dmg : 10)
+Velekh je napao Ancient Dragon pomocu Fireball (dmg : 20)
+Ancient Dragon je napao Velekh pomocu FIRE_BREATH (dmg : 20)
+Undead Dragon je napao Velekh pomocu FIRE_BREATH (dmg : 20)
+Blight Dragon je napao Eren pomocu STRIKE (dmg : 5)
+	KRAJ 5. poteza
+Armin je napao Blight Dragon pomocu Penetrator (dmg : 15)
+Eren je napao Blight Dragon pomocu Drake's Sword (dmg : 10)
+Velekh je napao Blight Dragon pomocu Fireball (dmg : 20)
+Velekh JE POBEDIO u duelu sa Blight Dragon
+Ancient Dragon je napao Eren pomocu STRIKE (dmg : 5)
+Undead Dragon je napao Eren pomocu STRIKE (dmg : 5)
 	KRAJ 6. poteza
 Velekh je pokusao da pokupi oruzje ali nije uspeo
-Armin je napao Undead Dragon pomocu Sword of Night and Flame (dmg : 10)
-Velekh je napao Undead Dragon pomocu The Piercer (dmg : 15)
+Armin je napao Ancient Dragon pomocu Penetrator (dmg : 15)
+Armin JE POBEDIO u duelu sa Ancient Dragon
+Eren je napao Undead Dragon pomocu Drake's Sword (dmg : 10)
+Velekh je napao Undead Dragon pomocu Fireball (dmg : 20)
 Undead Dragon je napao Velekh pomocu STRIKE (dmg : 5)
-Blight Dragon je napao Velekh pomocu STRIKE (dmg : 5)
 	KRAJ 7. poteza
-Armin je pokupio oruzje Penetrator
-Armin je napao Undead Dragon pomocu Penetrator (dmg : 15)
-Velekh je napao Undead Dragon pomocu The Piercer (dmg : 15)
-Undead Dragon je napao Armin pomocu STRIKE (dmg : 5)
-Blight Dragon je napao Velekh pomocu STRIKE (dmg : 5)
-	KRAJ 8. poteza
 Armin je bacio oruzje Penetrator
+Velekh je pokusao da pokupi oruzje ali nije uspeo
 Armin je napao Undead Dragon pomocu Sword of Night and Flame (dmg : 10)
-Armin JE POBEDIO u duelu sa Undead Dragon
-Velekh je napao Blight Dragon pomocu The Piercer (dmg : 15)
-Velekh JE POBEDIO u duelu sa Blight Dragon
-	KRAJ 9. poteza
+Eren je napao Undead Dragon pomocu Drake's Sword (dmg : 10)
+Velekh je napao Undead Dragon pomocu Fireball (dmg : 20)
+Velekh JE POBEDIO u duelu sa Undead Dragon
+	KRAJ 8. poteza
 	Pobedili su : HEROJI
